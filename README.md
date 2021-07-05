@@ -16,7 +16,6 @@ Through the use of mqtt, users can control their smarthome devices. this skill p
 * "Open the door"
 * "Close the door"
 * "Turn off the bedroom light"
-* "Y"
 * "Open the bedroom curtain"
 * "Close the bedroom curtain"
 * "Turn on the living room light"
